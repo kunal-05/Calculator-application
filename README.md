@@ -5,6 +5,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+A simple calculator application made with NodeJs. I am learning NodeJs and trying out few basic projects. 
 ### Built With
 
 This project would never have been possible without these wonderful frameworks and project.
