@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 | Directory                                                                                         | Content                      |
 | --------------------------------------------------------------------------------------------------| ---------------------------- |
-| [views](https://github.com/vidhi-mody/Bloom/tree/master/views)         | contains all frontend components |
+| [views](https://github.com/kunal-05/Calculator-application/tree/master/views)         | contains all frontend components |
 
 ### Prerequisites
 
@@ -54,3 +54,6 @@ npm install
 ```JS
 npm start
 ```
+
+### Deployed url
+https://calculator-application-fun.herokuapp.com/
